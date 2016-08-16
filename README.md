@@ -1,2 +1,3 @@
 # Raj1
 Demo
+Test a github is a repositiry for showing the bare minimumsof github and how to maneuver, function, e.t.c....
